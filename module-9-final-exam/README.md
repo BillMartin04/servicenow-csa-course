@@ -36,7 +36,7 @@ Each video is intentionally short (**5 minutes maximum**) so you have to be prec
 
 ## The five exams
 
-You will submit **five separate videos**, each no longer than 5 minutes. Each one maps to a core ServiceNow CSA competency area:
+You will record **five separate videos**, each no longer than 5 minutes, and **submit all five together in a single submission** (not one at a time). Each one maps to a core ServiceNow CSA competency area:
 
 | # | Exam | Competency area | Modules covered |
 |---|------|-----------------|-----------------|
@@ -61,7 +61,7 @@ Each video is scored out of **20 points** using the rubric published on that exa
 | **Resubmit** | 50–69 | Feedback provided; re-record the weak exam(s) and resubmit |
 | **Not yet passing** | below 50 | Detailed feedback; review the relevant modules and try again |
 
-You may **resubmit any individual exam** as many times as you need — the goal is mastery and confidence, not a one-shot gate.
+If you fall short on any exam, you may **resubmit** as many times as you need — the goal is mastery and confidence, not a one-shot gate. (A resubmission is a new all-five submission marked as a resubmission in the form.)
 
 ## Before you start
 

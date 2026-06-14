@@ -68,9 +68,13 @@ This exam contributes **20 points** toward your **100-point** final score across
 
 ## How to submit
 
+{% hint style="warning" %}
+**All five exams are submitted together in one go.** Record all five exam videos, then enter all five Google Drive links in a single submission. Don't submit one exam at a time.
+{% endhint %}
+
 1. Record your screen with voice narration (see the [Submission Guide](submission-guide.md)).
 2. Upload the video to **Google Drive** and set sharing to *Anyone with the link can view*.
-3. Submit the link through the [course submission form](submission-guide.md) — include the **email/handle tied to your Exam Navigator (or higher) membership**.
+3. Once all five videos are ready, submit them together through the [course submission form](submission-guide.md) — include the **YouTube channel name/handle and email tied to your Exam Navigator (or higher) membership**.
 
 ## Continue
 

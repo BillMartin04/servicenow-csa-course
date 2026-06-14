@@ -39,7 +39,11 @@ You need a screen recorder that captures your screen **and** your microphone. Fr
 **Why "Anyone with the link"?** If the link is restricted, your instructor cannot open it and your submission cannot be reviewed. Double-check this before submitting.
 {% endhint %}
 
-## Step 3 — Submit through the form
+## Step 3 — Submit all five videos in ONE submission
+
+{% hint style="warning" %}
+**Submit once, with all five exam videos together.** This is a single submission — record all five exams first, then enter all five Google Drive links in the form and submit one time. Don't send them one at a time.
+{% endhint %}
 
 Submit your links through the official course submission form:
 
@@ -53,14 +57,14 @@ The form will ask for:
 * Your **YouTube channel name / handle used for your membership** — this is how your instructor verifies your membership payment, so it must match the account you joined with
 * Your **membership email** (Google account tied to your membership, for cross-checking)
 * Your **membership tier**
-* A **Google Drive link for each of the 5 exam videos**
+* A **Google Drive link for all 5 exam videos** (all required in the same submission)
 * Whether this is a **resubmission**, plus any notes (optional)
 
 {% hint style="info" %}
 **Why we ask for your YouTube channel name:** Your videos are only reviewed for active members. Bill matches the channel name/handle you enter here against the membership (payment) records on the [TechTalk with Bill channel](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join). If they don't match, your submission can't be graded.
 {% endhint %}
 
-You can submit all five at once, or submit them as you finish each one. **You may resubmit any exam** — just note in the form that it's a resubmission.
+Submit all five videos together in a single form submission. If you later need to redo one or more exams after feedback, submit a **new** form with all five links again and mark it as a **resubmission** in the form. **You may resubmit as many times as you need** — the goal is mastery.
 
 ## Step 4 — Get your review & certificate
 
@@ -71,6 +75,7 @@ You can submit all five at once, or submit them as you finish each one. **You ma
 ## Submission checklist
 
 * [ ] I am an active **Exam Navigator** (or higher) member
+* [ ] I have recorded **all five** exam videos and am submitting them together
 * [ ] Each video is **5 minutes or less** with clear voice narration
 * [ ] Videos are uploaded to Google Drive and set to **"Anyone with the link can view"**
 * [ ] I tested each link in an incognito window
