@@ -71,3 +71,12 @@
   * [8.3 — Build Your First App — Part Three](module-8-build-your-first-app/lesson-8-3-build-your-first-app-part-three.md)
   * [8.4 — Create Dashboards in ServiceNow (2025 Update)](module-8-build-your-first-app/lesson-8-4-create-dashboards-in-servicenow-2025-update.md)
   * [8.5 — Capstone Project & Next Steps](module-8-build-your-first-app/lesson-8-5-capstone-project-next-steps.md)
+
+## Final Exam & Certification
+* [Final Exam Overview](module-9-final-exam/README.md)
+  * [Submission Guide](module-9-final-exam/submission-guide.md)
+  * [Exam 1 — Users, Groups, Roles & Access Control](module-9-final-exam/exam-1-users-roles-access-control.md)
+  * [Exam 2 — Platform UI Configuration](module-9-final-exam/exam-2-platform-ui-configuration.md)
+  * [Exam 3 — Data Foundations](module-9-final-exam/exam-3-data-foundations.md)
+  * [Exam 4 — Service Catalog & Self-Service](module-9-final-exam/exam-4-service-catalog.md)
+  * [Exam 5 — Automation & Capstone App](module-9-final-exam/exam-5-automation-capstone.md)

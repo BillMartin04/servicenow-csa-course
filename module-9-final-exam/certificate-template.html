@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @page { size: A4 landscape; margin: 0; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 297mm; height: 210mm; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: #0b1f3a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .cert {
+    position: relative;
+    width: 277mm;
+    height: 190mm;
+    background: #ffffff;
+    border: 2px solid #c9a24b;
+    box-shadow: 0 0 0 10px #0b1f3a, 0 0 0 12px #c9a24b;
+    padding: 18mm 20mm;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .corner {
+    position: absolute; width: 26mm; height: 26mm;
+    border: 3px solid #c9a24b;
+  }
+  .corner.tl { top: 6mm; left: 6mm; border-right: none; border-bottom: none; }
+  .corner.tr { top: 6mm; right: 6mm; border-left: none; border-bottom: none; }
+  .corner.bl { bottom: 6mm; left: 6mm; border-right: none; border-top: none; }
+  .corner.br { bottom: 6mm; right: 6mm; border-left: none; border-top: none; }
+
+  .brand {
+    font-size: 15pt; letter-spacing: 3px; text-transform: uppercase;
+    color: #0b1f3a; font-weight: bold; margin-bottom: 2mm;
+  }
+  .brand .accent { color: #c9a24b; }
+  .kicker {
+    font-size: 11pt; letter-spacing: 5px; text-transform: uppercase;
+    color: #7a8aa0; margin-bottom: 8mm;
+  }
+  .title {
+    font-size: 30pt; color: #0b1f3a; font-weight: bold;
+    letter-spacing: 1px; line-height: 1.1;
+  }
+  .rule {
+    width: 70mm; height: 2px; background: #c9a24b; margin: 6mm auto 8mm;
+  }
+  .awarded { font-size: 12pt; color: #555; font-style: italic; }
+  .name {
+    font-size: 34pt; color: #0b1f3a; font-weight: bold;
+    margin: 5mm 0; font-family: 'Brush Script MT', 'Segoe Script', cursive;
+  }
+  .desc {
+    font-size: 12.5pt; color: #333; line-height: 1.6;
+    max-width: 200mm; margin: 0 auto;
+  }
+  .desc strong { color: #0b1f3a; }
+  .footer {
+    margin-top: auto;
+    display: flex; justify-content: space-between; align-items: flex-end;
+    padding: 0 6mm;
+  }
+  .sig { width: 80mm; text-align: center; }
+  .sig .line { border-top: 1.5px solid #0b1f3a; margin-bottom: 2mm; }
+  .sig .who { font-size: 11pt; color: #0b1f3a; font-weight: bold; }
+  .sig .role { font-size: 9pt; color: #777; }
+  .seal {
+    width: 30mm; height: 30mm; border-radius: 50%;
+    background: radial-gradient(circle at 50% 40%, #d9b65e, #b8902f);
+    border: 3px solid #0b1f3a;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    color: #0b1f3a; box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+  }
+  .seal .s1 { font-size: 8pt; font-weight: bold; letter-spacing: 1px; }
+  .seal .s2 { font-size: 14pt; font-weight: bold; }
+  .seal .s3 { font-size: 6.5pt; letter-spacing: 1px; }
+  .meta { font-size: 8.5pt; color: #999; margin-top: 4mm; }
+</style>
+</head>
+<body>
+  <div class="cert">
+    <div class="corner tl"></div><div class="corner tr"></div>
+    <div class="corner bl"></div><div class="corner br"></div>
+
+    <div class="brand">TechTalk <span class="accent">with Bill</span></div>
+    <div class="kicker">Certificate of Completion</div>
+
+    <div class="title">ServiceNow System Administrator<br>Zero to Certified</div>
+    <div class="rule"></div>
+
+    <div class="awarded">This certifies that</div>
+    <div class="name">{{STUDENT_NAME}}</div>
+    <div class="desc">
+      has successfully completed all eight modules and passed the
+      <strong>five hands-on video examinations</strong>, demonstrating practical
+      competency in ServiceNow administration — including user &amp; access control,
+      platform UI configuration, data foundations, the service catalog, and
+      automation — reviewed and verified by a practicing ServiceNow architect.
+    </div>
+
+    <div class="footer">
+      <div class="sig">
+        <div class="line"></div>
+        <div class="who">Bill — TechTalk with Bill</div>
+        <div class="role">ServiceNow Architect · 7x CIS Certified</div>
+      </div>
+      <div class="seal">
+        <div class="s1">VERIFIED</div>
+        <div class="s2">CSA</div>
+        <div class="s3">READY</div>
+      </div>
+      <div class="sig">
+        <div class="line"></div>
+        <div class="who">{{DATE}}</div>
+        <div class="role">Date of Completion · ID: {{CERT_ID}}</div>
+      </div>
+    </div>
+    <div class="meta">Verify at youtube.com/@TechTalkwithBill · Certificate ID {{CERT_ID}}</div>
+  </div>
+</body>
+</html>
