@@ -48,7 +48,7 @@ The final exam is **five short hands-on videos (5 minutes each)** where you reco
 {% endhint %}
 
 {% hint style="warning" %}
-**Video review is for Exam Navigator members (and higher tiers).** Watching the course is free, but your recorded videos are only reviewed, scored, and certified if you're an active [Exam Navigator member](https://www.youtube.com/@TechTalkwithBill/membership) or above.
+**Video review is for Exam Navigator members (and higher tiers).** Watching the course is free, but your recorded videos are only reviewed, scored, and certified if you're an active [Exam Navigator member](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) or above.
 {% endhint %}
 
 **Go to the final exam now:**

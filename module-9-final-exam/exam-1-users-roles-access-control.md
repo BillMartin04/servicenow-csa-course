@@ -7,7 +7,7 @@ description: "ServiceNow final exam 1: record a 5-minute video creating users, g
 **Quick answer:** Record a single video of **5 minutes maximum** demonstrating the tasks below in your own ServiceNow Personal Developer Instance (PDI), narrating as you go. This exam covers **Security & Access Control (Module 2)** and is worth **20 points**.
 
 {% hint style="warning" %}
-**Members-only review.** Your video is only graded if you are an active **Exam Navigator** member (or any higher tier) of [TechTalk with Bill](https://www.youtube.com/@TechTalkwithBill/membership). Include your membership email/handle when you submit.
+**Members-only review.** Your video is only graded if you are an active **Exam Navigator** member (or any higher tier) of [TechTalk with Bill](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join). Include your membership email/handle when you submit.
 {% endhint %}
 
 ## The scenario

@@ -7,7 +7,7 @@ description: "How to record, upload, and submit your ServiceNow final exam video
 **Quick answer:** Record each exam as a screen-capture video (5 minutes max) with your voice narrating, upload it to Google Drive set to *Anyone with the link can view*, then paste the links into the submission form along with the email tied to your Exam Navigator membership. Your instructor reviews within 5–7 days.
 
 {% hint style="warning" %}
-**Reviews are for Exam Navigator members (and higher tiers) only.** Make sure your [membership](https://www.youtube.com/@TechTalkwithBill/membership) is active and submit using the matching email/handle, or your videos will not be graded.
+**Reviews are for Exam Navigator members (and higher tiers) only.** Make sure your [membership](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) is active and submit using the matching email/handle, or your videos will not be graded.
 {% endhint %}
 
 ## Step 1 — Record your screen with narration

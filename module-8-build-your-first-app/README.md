@@ -25,4 +25,4 @@ description: "Building Your First Application (Capstone) in ServiceNow: 5 hands-
 
 ## After the capstone: your final exam
 
-Once you finish this module, record and submit your **five hands-on video exams** to earn your certificate. See the [Final Exam & Certification module](../module-9-final-exam/README.md) and the [submission guide](../module-9-final-exam/submission-guide.md). Video review is an [Exam Navigator member](https://www.youtube.com/@TechTalkwithBill/membership) (and above) benefit.
+Once you finish this module, record and submit your **five hands-on video exams** to earn your certificate. See the [Final Exam & Certification module](../module-9-final-exam/README.md) and the [submission guide](../module-9-final-exam/submission-guide.md). Video review is an [Exam Navigator member](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) (and above) benefit.

@@ -25,7 +25,7 @@ This is the difference between *"I watched a course"* and *"a ServiceNow archite
 {% endhint %}
 
 {% hint style="warning" %}
-**Members only — exam review requires the Exam Navigator tier (or higher).** The lessons in this course are free to watch. However, your videos will **only be reviewed, scored, and certified if you are an active *Exam Navigator* member — or any higher tier** — on the [TechTalk with Bill YouTube channel](https://www.youtube.com/@TechTalkwithBill). Non-member submissions will not be graded. [Become an Exam Navigator member here](https://www.youtube.com/@TechTalkwithBill/membership) to unlock instructor review, personalized feedback, and your certificate.
+**Members only — exam review requires the Exam Navigator tier (or higher).** The lessons in this course are free to watch. However, your videos will **only be reviewed, scored, and certified if you are an active *Exam Navigator* member — or any higher tier** — on the [TechTalk with Bill YouTube channel](https://www.youtube.com/@TechTalkwithBill). Non-member submissions will not be graded. [Become an Exam Navigator member here](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) to unlock instructor review, personalized feedback, and your certificate.
 {% endhint %}
 
 ## Why a video exam instead of a multiple-choice quiz?
@@ -65,7 +65,7 @@ You may **resubmit any individual exam** as many times as you need — the goal 
 
 ## Before you start
 
-1. **Become an Exam Navigator member (or higher tier)** on the [TechTalk with Bill channel](https://www.youtube.com/@TechTalkwithBill/membership) — required for your videos to be reviewed.
+1. **Become an Exam Navigator member (or higher tier)** on the [TechTalk with Bill channel](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) — required for your videos to be reviewed.
 2. Make sure your **free Personal Developer Instance (PDI)** is up and running (see [Lesson 1.4](../module-1-getting-started/lesson-1-4-create-a-servicenow-personal-developer-instance-pdi.md)).
 3. Have completed all eight course modules.
 4. Be ready to **screen-record with your voice narrating** what you do and why.
