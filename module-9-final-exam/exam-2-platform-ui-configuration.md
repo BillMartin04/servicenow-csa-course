@@ -30,16 +30,41 @@ Complete and narrate each of the following:
 
 ## Grading rubric (20 points)
 
-| Criterion | What earns full marks | Points |
-|-----------|----------------------|:------:|
-| **List configuration** | Correctly configures list columns and explains Personalize vs Configure. | 4 |
-| **Form Layout** | Successfully adds/removes a field using Form Layout. | 4 |
-| **Form Designer** | Uses Form Designer correctly and explains when to use it vs Form Layout. | 5 |
-| **Navigation fluency** | Demonstrates confident Next Experience / Unified Navigation. | 4 |
-| **Clarity & narration** | Clear narration, organized, within 5 minutes. | 3 |
-| **Total** | | **20** |
+Each criterion is scored at one of three levels so you know **exactly what you must prove on screen** to earn the points. Your instructor circles the level reached and returns written feedback.
 
-Your instructor will score each criterion and return written feedback. **You may resubmit** this exam if you score below the passing line — the goal is mastery and confidence.
+| Criterion | ✅ Full credit — *proof required* | 🟡 Partial credit | ❌ No credit |
+|-----------|-----------------------------------|-------------------|--------------|
+| **List configuration** | **4 pts** — Columns are personalized/configured on a real list AND the student correctly explains Personalize vs Configure (per-user vs everyone). | **2 pts** — Columns are changed but the Personalize vs Configure distinction is missing or wrong. | **0 pts** — No list configuration shown. |
+| **Form Layout** | **4 pts** — A field is added or removed using Form Layout and the change is shown on the form afterward. | **2 pts** — Form Layout is opened but the change is not clearly demonstrated on the form. | **0 pts** — Form Layout not used. |
+| **Form Designer** | **5 pts** — Form Designer is used to rearrange/add a field or section AND the student explains when to use Form Designer vs Form Layout. | **3 pts** — Form Designer is used but with no/weak explanation of when to use which tool. | **0 pts** — Form Designer not used. |
+| **Navigation fluency** | **4 pts** — Confidently navigates to an app/module via Next Experience / Unified Navigation without fumbling. | **2 pts** — Navigates but with hesitation or by the wrong path. | **0 pts** — Navigation not demonstrated. |
+| **Clarity & narration** | **3 pts** — Continuous narration, organized, within 5:00. | **2 pts** — Minor narration gaps or slightly over time. | **0 pts** — Little/no narration or well over time. |
+| **Total** | | | **/ 20** |
+
+### Evidence checklist (what the grader looks for)
+
+Your video passes most easily when every item below is visibly true on screen:
+
+- [ ] List columns are visibly changed.
+- [ ] Student states the difference between **Personalize** and **Configure**.
+- [ ] A field is added/removed via **Form Layout** and shown on the form.
+- [ ] **Form Designer** is opened and used to change the form.
+- [ ] Student says when to use Form Designer vs Form Layout.
+- [ ] Student navigates using **Next Experience / Unified Navigation**.
+
+### How this exam maps to your final score
+
+This exam contributes **20 points** toward your **100-point** final score across all five exams:
+
+| Final score | Result |
+|-------------|--------|
+| 90–100 | 🏆 Pass with Distinction |
+| 70–89 | ✅ Pass |
+| 50–69 | 🔁 Resubmit (free, unlimited) |
+| Below 50 | Not yet passing — resubmit |
+
+**You may resubmit any exam** until you pass — the goal is mastery and confidence, not a single shot.
+
 
 ## How to submit
 

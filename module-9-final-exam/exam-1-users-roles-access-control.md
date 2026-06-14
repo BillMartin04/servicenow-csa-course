@@ -30,16 +30,41 @@ Complete and narrate each of the following:
 
 ## Grading rubric (20 points)
 
-| Criterion | What earns full marks | Points |
-|-----------|----------------------|:------:|
-| **User creation** | A new user is created correctly with the required fields populated. | 4 |
-| **Group creation & membership** | A group is created and the user is added as a member. | 4 |
-| **Role assignment via group** | A role is assigned to the group (not the user directly) and the reasoning is explained. | 4 |
-| **ACL explanation** | Correctly explains how an ACL governs field/record access and references the execution order. | 5 |
-| **Clarity & narration** | Clear voice narration, well-organized, finished within 5 minutes. | 3 |
-| **Total** | | **20** |
+Each criterion is scored at one of three levels so you know **exactly what you must prove on screen** to earn the points. Your instructor circles the level reached and returns written feedback.
 
-Your instructor will score each criterion and return written feedback. **You may resubmit** this exam if you score below the passing line — the goal is mastery and confidence.
+| Criterion | ✅ Full credit — *proof required* | 🟡 Partial credit | ❌ No credit |
+|-----------|-----------------------------------|-------------------|--------------|
+| **User creation** | **4 pts** — On screen: a new user record is saved with username, first name, last name and email populated. | **2 pts** — A user is created but one or more required fields are missing, or the record is not shown saved. | **0 pts** — No new user is created on screen. |
+| **Group creation & membership** | **4 pts** — A new group is created AND the user is shown added as a member (Group Members related list). | **2 pts** — Group is created but membership is not shown, OR user is added but to an existing group only. | **0 pts** — No group created and no membership shown. |
+| **Role assignment via group** | **4 pts** — A role is assigned to the GROUP (not the user) and the student explains why group-based roles scale better. | **2 pts** — A role is assigned but directly to the user, OR assigned to the group with no/weak explanation. | **0 pts** — No role is assigned, or it is unclear where the role landed. |
+| **ACL explanation** | **5 pts** — Correctly explains how an ACL governs read/write on a field or record AND states the execution order (operation → role → condition → script). | **3 pts** — Explains ACL purpose but omits or misstates the execution order, or shows it without explaining it. | **0 pts** — No meaningful ACL explanation. |
+| **Clarity & narration** | **3 pts** — Continuous voice narration, logical order, finished within 5:00. | **2 pts** — Some narration gaps or runs slightly over 5:00, but followable. | **0 pts** — Little/no narration or well over time. |
+| **Total** | | | **/ 20** |
+
+### Evidence checklist (what the grader looks for)
+
+Your video passes most easily when every item below is visibly true on screen:
+
+- [ ] A new **user** record is visible and saved with all required fields.
+- [ ] A new **group** record is visible and saved.
+- [ ] The user appears in the group's **Members** list.
+- [ ] A **role** is shown attached to the group record.
+- [ ] The student says aloud *why* roles go on groups, not users.
+- [ ] An **ACL** is opened and the execution order is stated.
+
+### How this exam maps to your final score
+
+This exam contributes **20 points** toward your **100-point** final score across all five exams:
+
+| Final score | Result |
+|-------------|--------|
+| 90–100 | 🏆 Pass with Distinction |
+| 70–89 | ✅ Pass |
+| 50–69 | 🔁 Resubmit (free, unlimited) |
+| Below 50 | Not yet passing — resubmit |
+
+**You may resubmit any exam** until you pass — the goal is mastery and confidence, not a single shot.
+
 
 ## How to submit
 

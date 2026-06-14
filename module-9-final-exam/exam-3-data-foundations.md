@@ -30,16 +30,42 @@ Complete and narrate each of the following:
 
 ## Grading rubric (20 points)
 
-| Criterion | What earns full marks | Points |
-|-----------|----------------------|:------:|
-| **Update set discipline** | Creates and sets a current update set before changes; explains why. | 5 |
-| **Table creation** | Creates a custom table with appropriate custom fields. | 4 |
-| **Module creation** | Creates a working module pointing to the table. | 3 |
-| **Data verification** | Adds records and confirms the table functions. | 3 |
-| **Update set capture & migration** | Shows changes captured and explains migration to another instance. | 5 |
-| **Total** | | **20** |
+Each criterion is scored at one of three levels so you know **exactly what you must prove on screen** to earn the points. Your instructor circles the level reached and returns written feedback.
 
-Your instructor will score each criterion and return written feedback. **You may resubmit** this exam if you score below the passing line — the goal is mastery and confidence.
+| Criterion | ✅ Full credit — *proof required* | 🟡 Partial credit | ❌ No credit |
+|-----------|-----------------------------------|-------------------|--------------|
+| **Update set discipline** | **5 pts** — An update set is created AND set as current BEFORE any changes, and the student explains why this is done first. | **3 pts** — An update set is used but created late, or set current without explaining why. | **0 pts** — No update set is created or set current. |
+| **Table creation** | **4 pts** — A custom table is created with at least two custom fields, shown saved. | **2 pts** — A table is created but with fewer than two custom fields or not clearly saved. | **0 pts** — No custom table created. |
+| **Module creation** | **3 pts** — A module is created in the App Navigator that opens the new table. | **2 pts** — A module is created but does not point to the correct table or is not shown working. | **0 pts** — No module created. |
+| **Data verification** | **3 pts** — One or more records are added and the populated list/table is shown. | **2 pts** — A record is started but not shown saved/listed. | **0 pts** — No records added. |
+| **Update set capture & migration** | **5 pts** — The update set is opened showing the captured changes AND the student explains how to move it to another instance (export/retrieve). | **3 pts** — Captured changes are shown but migration steps are not explained, or vice versa. | **0 pts** — Neither capture nor migration is demonstrated. |
+| **Total** | | | **/ 20** |
+
+### Evidence checklist (what the grader looks for)
+
+Your video passes most easily when every item below is visibly true on screen:
+
+- [ ] An **update set** is created and shown set as *current*.
+- [ ] Student says **why** the update set comes first.
+- [ ] A **custom table** with ≥2 custom fields is saved.
+- [ ] A **module** opens the new table from the navigator.
+- [ ] At least one **record** is visible in the table.
+- [ ] The update set's **captured changes** are shown.
+- [ ] Student explains **migration** to another instance.
+
+### How this exam maps to your final score
+
+This exam contributes **20 points** toward your **100-point** final score across all five exams:
+
+| Final score | Result |
+|-------------|--------|
+| 90–100 | 🏆 Pass with Distinction |
+| 70–89 | ✅ Pass |
+| 50–69 | 🔁 Resubmit (free, unlimited) |
+| Below 50 | Not yet passing — resubmit |
+
+**You may resubmit any exam** until you pass — the goal is mastery and confidence, not a single shot.
+
 
 ## How to submit
 

@@ -30,16 +30,41 @@ Complete and narrate each of the following:
 
 ## Grading rubric (20 points)
 
-| Criterion | What earns full marks | Points |
-|-----------|----------------------|:------:|
-| **Catalog item** | Creates a working catalog item with multiple variables. | 4 |
-| **Ordering flow** | Successfully orders the item and shows the resulting request. | 3 |
-| **Record producer** | Creates a record producer and explains the difference correctly. | 4 |
-| **Catalog UI policy** | Configures and demonstrates a working catalog UI policy. | 6 |
-| **Clarity & narration** | Clear narration, organized, within 5 minutes. | 3 |
-| **Total** | | **20** |
+Each criterion is scored at one of three levels so you know **exactly what you must prove on screen** to earn the points. Your instructor circles the level reached and returns written feedback.
 
-Your instructor will score each criterion and return written feedback. **You may resubmit** this exam if you score below the passing line — the goal is mastery and confidence.
+| Criterion | ✅ Full credit — *proof required* | 🟡 Partial credit | ❌ No credit |
+|-----------|-----------------------------------|-------------------|--------------|
+| **Catalog item** | **4 pts** — A catalog item is built (Catalog Builder) with at least two variables and shown saved/published. | **2 pts** — An item is created with fewer than two variables or not shown published. | **0 pts** — No catalog item created. |
+| **Ordering flow** | **3 pts** — The item is ordered as an end user and the resulting request/RITM is shown. | **2 pts** — Ordering is started but the resulting request is not shown. | **0 pts** — Item is not ordered. |
+| **Record producer** | **4 pts** — A record producer is created AND the student correctly explains how it differs from a catalog item (creates a record on a table). | **2 pts** — Record producer is created but the difference is not/poorly explained. | **0 pts** — No record producer created. |
+| **Catalog UI policy** | **6 pts** — A catalog UI policy is configured AND demonstrated working (a field shows/hides based on another answer, live). | **3 pts** — A UI policy is configured but not shown actually working, or works partially. | **0 pts** — No catalog UI policy shown. |
+| **Clarity & narration** | **3 pts** — Continuous narration, organized, within 5:00. | **2 pts** — Minor narration gaps or slightly over time. | **0 pts** — Little/no narration or well over time. |
+| **Total** | | | **/ 20** |
+
+### Evidence checklist (what the grader looks for)
+
+Your video passes most easily when every item below is visibly true on screen:
+
+- [ ] A **catalog item** with ≥2 variables is saved.
+- [ ] The item is **ordered** and the request/RITM is shown.
+- [ ] A **record producer** is created.
+- [ ] Student explains how a record producer differs from a catalog item.
+- [ ] A **catalog UI policy** is configured.
+- [ ] The UI policy is shown **working live** (field shows/hides).
+
+### How this exam maps to your final score
+
+This exam contributes **20 points** toward your **100-point** final score across all five exams:
+
+| Final score | Result |
+|-------------|--------|
+| 90–100 | 🏆 Pass with Distinction |
+| 70–89 | ✅ Pass |
+| 50–69 | 🔁 Resubmit (free, unlimited) |
+| Below 50 | Not yet passing — resubmit |
+
+**You may resubmit any exam** until you pass — the goal is mastery and confidence, not a single shot.
+
 
 ## How to submit
 

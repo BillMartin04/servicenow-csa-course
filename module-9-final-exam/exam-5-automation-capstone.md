@@ -30,16 +30,42 @@ Complete and narrate each of the following:
 
 ## Grading rubric (20 points)
 
-| Criterion | What earns full marks | Points |
-|-----------|----------------------|:------:|
-| **Flow Designer** | Builds and runs a working flow with an appropriate trigger. | 5 |
-| **Automation decision-making** | Correctly distinguishes Business Rule vs Flow vs UI Policy with examples. | 4 |
-| **Capstone app demo** | Demonstrates a functional app: table, form, and automation working together. | 5 |
-| **Reporting** | Shows a relevant report or dashboard on the app's data. | 3 |
-| **Reflection & readiness** | Thoughtful reflection on next steps and CSA readiness. | 3 |
-| **Total** | | **20** |
+Each criterion is scored at one of three levels so you know **exactly what you must prove on screen** to earn the points. Your instructor circles the level reached and returns written feedback.
 
-Your instructor will score each criterion and return written feedback. **You may resubmit** this exam if you score below the passing line — the goal is mastery and confidence.
+| Criterion | ✅ Full credit — *proof required* | 🟡 Partial credit | ❌ No credit |
+|-----------|-----------------------------------|-------------------|--------------|
+| **Flow Designer** | **5 pts** — A flow is built in Flow Designer with an appropriate trigger AND shown running successfully (execution details/activity). | **3 pts** — A flow is built but not shown running, or runs with errors. | **0 pts** — No flow built. |
+| **Automation decision-making** | **4 pts** — Correctly distinguishes Business Rule vs Flow vs UI Policy with one valid example of each. | **2 pts** — Distinguishes some but mixes up roles or gives weak/incorrect examples. | **0 pts** — No meaningful distinction made. |
+| **Capstone app demo** | **5 pts** — The Module 8 app is shown end to end: table(s), a form, and at least one automation working together. | **3 pts** — Part of the app is shown but the pieces are not clearly tied together or automation isn't shown working. | **0 pts** — No capstone app demonstrated. |
+| **Reporting** | **3 pts** — A report or dashboard built on the app's data is shown. | **2 pts** — A report is started but not built on the app's own data, or not clearly shown. | **0 pts** — No report or dashboard shown. |
+| **Reflection & readiness** | **3 pts** — Thoughtful, specific reflection on next improvements and CSA readiness. | **2 pts** — Generic or brief reflection. | **0 pts** — No reflection. |
+| **Total** | | | **/ 20** |
+
+### Evidence checklist (what the grader looks for)
+
+Your video passes most easily when every item below is visibly true on screen:
+
+- [ ] A **flow** with a trigger is built in Flow Designer.
+- [ ] The flow is shown **running** (execution/activity visible).
+- [ ] Student contrasts **Business Rule vs Flow vs UI Policy** with examples.
+- [ ] The **capstone app** table + form are shown.
+- [ ] An **automation** is shown working on the app.
+- [ ] A **report/dashboard** on the app's data is shown.
+- [ ] Student reflects on **next steps and CSA readiness**.
+
+### How this exam maps to your final score
+
+This exam contributes **20 points** toward your **100-point** final score across all five exams:
+
+| Final score | Result |
+|-------------|--------|
+| 90–100 | 🏆 Pass with Distinction |
+| 70–89 | ✅ Pass |
+| 50–69 | 🔁 Resubmit (free, unlimited) |
+| Below 50 | Not yet passing — resubmit |
+
+**You may resubmit any exam** until you pass — the goal is mastery and confidence, not a single shot.
+
 
 ## How to submit
 

@@ -25,7 +25,7 @@ This is the difference between *"I watched a course"* and *"a ServiceNow archite
 {% endhint %}
 
 {% hint style="warning" %}
-**Members only — exam review requires the Exam Navigator tier (or higher).** The lessons in this course are free to watch. However, your videos will **only be reviewed, scored, and certified if you are an active *Exam Navigator* member — or any higher tier** — on the [TechTalk with Bill YouTube channel](https://www.youtube.com/@TechTalkwithBill). Non-member submissions will not be graded. [Become an Exam Navigator member here](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) to unlock instructor review, personalized feedback, and your certificate.
+**Members only — exam review requires the Exam Navigator tier (or higher).** The lessons in this course are free to watch. However, your videos will **only be reviewed, scored, and certified if you are an active *Exam Navigator* member — or any higher tier** — on the [TechTalk with Bill YouTube channel](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join). Non-member submissions will not be graded. [Become an Exam Navigator member here](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join) to unlock instructor review, personalized feedback, and your certificate.
 {% endhint %}
 
 ## Why a video exam instead of a multiple-choice quiz?
