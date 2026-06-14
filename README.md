@@ -5,7 +5,7 @@ description: "Free ServiceNow System Administrator training course (CSA): 44 han
 # ServiceNow System Administrator: Zero to Certified
 ### A Complete Hands-On Course by TechTalk with Bill
 
-Welcome to the complete, hands-on ServiceNow System Administrator course. Across **8 modules** and **45 video lessons**, you will go from complete beginner to a confident, job-ready ServiceNow administrator — building everything yourself in a free Personal Developer Instance (PDI).
+Welcome to the complete, hands-on ServiceNow System Administrator course. Across **8 modules** and **44 video lessons**, you will go from complete beginner to a confident, job-ready ServiceNow administrator — building everything yourself in a free Personal Developer Instance (PDI).
 
 ## What you will learn
 
@@ -37,7 +37,7 @@ Welcome to the complete, hands-on ServiceNow System Administrator course. Across
 | | |
 |---|---|
 | **Level** | Beginner to Intermediate |
-| **Format** | 45 video lessons across 8 modules |
+| **Format** | 44 video lessons across 8 modules |
 | **Prerequisites** | None |
 | **Lab environment** | Free ServiceNow Personal Developer Instance (PDI) |
 | **Instructor** | Bill — ServiceNow MVP & Certified Technical Architect |
