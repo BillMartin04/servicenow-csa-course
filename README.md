@@ -7,6 +7,12 @@ description: "Free ServiceNow System Administrator training course (CSA): 44 han
 
 Welcome to the complete, hands-on ServiceNow System Administrator course. Across **8 modules** and **44 video lessons**, you will go from complete beginner to a confident, job-ready ServiceNow administrator — building everything yourself in a free Personal Developer Instance (PDI).
 
+## Start here — a quick tour of the course (8 min)
+
+New here? Watch this short walkthrough first. It covers what's inside, who the course is for, the full module roadmap, and exactly how to begin.
+
+{% embed url="https://youtu.be/pyqx_ecUdnU" %}
+
 ## What you will learn
 
 1. Set up and configure your own ServiceNow developer environment
