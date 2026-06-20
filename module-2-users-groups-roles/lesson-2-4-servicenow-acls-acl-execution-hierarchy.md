@@ -8,11 +8,11 @@ description: "ServiceNow ACLs & ACL Execution Hierarchy - step-by-step ServiceNo
 
 ## Watch the video lesson
 
-{% embed url="https://www.youtube.com/watch?v=bBYCqpPS0j4" %}
+{% embed url="https://www.youtube.com/watch?v=FZIOM2LoI5A" %}
 
 <!-- If the embed does not render, use this HTML block in GitBook: -->
 <!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bBYCqpPS0j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FZIOM2LoI5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
 
 
@@ -28,7 +28,7 @@ By the end of this lesson, you will be able to:
 
 ACLs are how ServiceNow enforces security at the data level.
 
-> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=bBYCqpPS0j4
+> **Hands-on tip:** Follow along in your own PDI as you watch. Direct video link: https://www.youtube.com/watch?v=FZIOM2LoI5A
 
 ## Frequently asked questions
 
@@ -48,7 +48,7 @@ _Use the video and the overview above to answer this. Reviewing these questions 
 
 Have a question or want to share your progress? Post a comment under the video and the instructor will reply.
 
-[Join the discussion on YouTube](https://www.youtube.com/watch?v=bBYCqpPS0j4)
+[Join the discussion on YouTube](https://www.youtube.com/watch?v=FZIOM2LoI5A)
 
 ## Continue the course
 
