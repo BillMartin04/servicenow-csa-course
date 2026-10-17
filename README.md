@@ -39,7 +39,7 @@ New here? Watch this short walkthrough first. It covers what's inside, who the c
 * Do every exercise live in your own PDI (don't just watch)
 * Take the self-check questions at the end of each lesson
 * Finish with the Module 8 capstone to consolidate everything
-* When you are ready for the official ServiceNow exam, read [Get Your Official ServiceNow CSA Exam Voucher](official-csa-exam/servicenow-csa-exam-kit.md) (contains a paid affiliate link)
+* When you are ready for the official ServiceNow exam, read [Get Your Official ServiceNow CSA Exam Voucher](official-csa-exam/servicenow-csa-exam-kit.md)
 
 | | |
 |---|---|
