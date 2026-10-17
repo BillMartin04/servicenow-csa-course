@@ -10,7 +10,7 @@ If this course helps you, here are two ways to say thank you. Your support keeps
 
 ## Join the community
 
-Become a **Tech Enthusiast** member of the TechTalk with Bill channel on YouTube. It is the starting membership level, a small monthly amount shown in your local currency, and you get loyalty badges next to your name in comments and live chat.
+Become a member of the TechTalk with Bill channel on YouTube and choose the level that suits you best. Each level shows its perks and its monthly price in your local currency.
 
 [Join the community](https://www.youtube.com/channel/UCMf7pje1x5iZkkEF-Y3PLSA/join)
 
