@@ -26,7 +26,7 @@ _Use the video and the overview above to answer this. Reviewing these questions 
 
 ### What is the CSA certification?
 
-_Use the video and the overview above to answer this. Reviewing these questions reinforces the key concepts of this lesson._
+The Certified System Administrator (CSA) certification is ServiceNow's official credential for platform administrators. ServiceNow awards it after you pass its official exam. It is separate from the TechTalk with Bill Certificate of Completion you can earn in Module 9. To learn how to sit the official exam, read [Get Your Official ServiceNow CSA Exam Voucher](../official-csa-exam/servicenow-csa-exam-kit.md).
 
 ### What is your next learning goal after this course?
 
@@ -56,6 +56,14 @@ The final exam is **five short hands-on videos (5 minutes each)** where you reco
 * [Final Exam & Certification — start here](../module-9-final-exam/README.md)
 * [Read the submission guide (how to record & submit)](../module-9-final-exam/submission-guide.md)
 * [Exam 1 — Users, Groups, Roles & Access Control](../module-9-final-exam/exam-1-users-roles-access-control.md)
+
+## Planning your official CSA exam?
+
+When you are ready for the official ServiceNow exam, read [Get Your Official ServiceNow CSA Exam Voucher](../official-csa-exam/servicenow-csa-exam-kit.md). It compares the USD 300 exam voucher alone with the K2U CSA Exam Kit (official exam voucher, practice exams and 12 months of human expert support for USD 299 regular price, with code TECHTALK5 for 5% off).
+
+{% hint style="info" %}
+**Paid affiliate disclosure:** That page contains a K2U affiliate link, and TechTalk with Bill earns a commission on purchases through it. Buying the kit is optional, is not required for this course and does not include Exam Navigator review.
+{% endhint %}
 
 ## Continue the course
 

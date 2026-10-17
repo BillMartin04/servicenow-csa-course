@@ -80,3 +80,6 @@
   * [Exam 3 — Data Foundations](module-9-final-exam/exam-3-data-foundations.md)
   * [Exam 4 — Service Catalog & Self-Service](module-9-final-exam/exam-4-service-catalog.md)
   * [Exam 5 — Automation & Capstone App](module-9-final-exam/exam-5-automation-capstone.md)
+
+## Official ServiceNow CSA Exam (Optional)
+* [Get Your Official ServiceNow CSA Exam Voucher](official-csa-exam/servicenow-csa-exam-kit.md)

@@ -12,6 +12,10 @@ This is the difference between *"I watched a course"* and *"a ServiceNow archite
 
 **Quick answer:** The final exam is a set of five short (5-minute) hands-on video demonstrations. You record yourself performing real ServiceNow admin tasks in your own Personal Developer Instance (PDI), submit the videos through a simple Google Form, and your instructor reviews each one against a published rubric. Pass all five and you earn your **branded Certificate of Completion**. Personal instructor review is an **Exam Navigator member (and above) benefit**.
 
+{% hint style="info" %}
+**This is the course final exam, not the official ServiceNow CSA exam.** Your Certificate of Completion comes from TechTalk with Bill. The Certified System Administrator (CSA) certification comes only from ServiceNow after you pass its official exam. Resubmissions here apply to the course videos only, not to the official exam.
+{% endhint %}
+
 ## What you get as an Exam Navigator member
 
 * ✅ **Personal video review** by a practicing ServiceNow architect (7x CIS-certified)
@@ -75,6 +79,14 @@ If you fall short on any exam, you may **resubmit** as many times as you need �
 
 * [Read the submission guide first](submission-guide.md)
 * [Start with Exam 1 — Users, Groups, Roles & Access Control](exam-1-users-roles-access-control.md)
+
+## After your Certificate of Completion: the official CSA exam
+
+When you are ready to sit the official ServiceNow CSA exam, read [Get Your Official ServiceNow CSA Exam Voucher](../official-csa-exam/servicenow-csa-exam-kit.md). It covers the K2U CSA Exam Kit: an official exam voucher for one attempt, K2U practice exams and 12 months of human expert study support for USD 299 regular price. Code TECHTALK5 gives 5% off.
+
+{% hint style="info" %}
+**Paid affiliate disclosure:** That page contains a K2U affiliate link, and TechTalk with Bill earns a commission on purchases through it. The K2U kit does not include Exam Navigator review, and Exam Navigator does not include the K2U kit.
+{% endhint %}
 
 ---
 
