@@ -67,7 +67,7 @@ When you are ready for the official ServiceNow exam, read [Get Your Official Ser
 
 ## Thank you for learning with me
 
-You made it through the whole course. If it helped you, please [join the community](../join-the-community.md) for USD 1.99 a month as a token of appreciation.
+You made it through the whole course. If it helped you, please [support the course](../join-the-community.md) as a token of appreciation.
 
 ## Continue the course
 
