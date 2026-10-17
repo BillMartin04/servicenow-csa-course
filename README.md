@@ -49,4 +49,6 @@ New here? Watch this short walkthrough first. It covers what's inside, who the c
 | **Lab environment** | Free ServiceNow Personal Developer Instance (PDI) |
 | **Instructor** | Bill — ServiceNow MVP & Certified Technical Architect |
 
+If this free course helps you, please [join the community](join-the-community.md) for USD 1.99 a month as a token of appreciation.
+
 *Course content © TechTalk with Bill.*

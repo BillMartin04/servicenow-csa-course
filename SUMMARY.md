@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Syllabus](SYLLABUS.md)
+* [Join the Community](join-the-community.md)
 
 ## Getting Started & Your Lab Environment
 * [Module 1 Overview](module-1-getting-started/README.md)

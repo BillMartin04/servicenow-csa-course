@@ -65,6 +65,10 @@ When you are ready for the official ServiceNow exam, read [Get Your Official Ser
 **Paid affiliate disclosure:** That page contains a K2U affiliate link, and TechTalk with Bill earns a commission on purchases through it. Buying the kit is optional, is not required for this course and does not include Exam Navigator review.
 {% endhint %}
 
+## Thank you for learning with me
+
+You made it through the whole course. If it helped you, please [join the community](../join-the-community.md) for USD 1.99 a month as a token of appreciation.
+
 ## Continue the course
 
 Back to: [Building Your First Application (Capstone) module overview](README.md) | [Course home](../README.md) | [Full syllabus](../SYLLABUS.md)
